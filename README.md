@@ -1,5 +1,5 @@
 
-<img src="https://tenor.com/view/hello-funny-wave-chicken-gif-13330039" height="400px" width="100%" />
+<img src="https://c.tenor.com/8NbjVzof-oIAAAAC/hello-funny.gif" height="400px" width="100%" />
 
 # Whats up, people from in the internet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
