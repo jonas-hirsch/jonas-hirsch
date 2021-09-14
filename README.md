@@ -1,1 +1,3 @@
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jonas-hirsch&theme=highcontrast)](https://git.io/streak-stats)" alt"stats"></img>
+<div style="display:flex; flex-wrap:wrap" align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jonas-hirsch&theme=highdark"></img>
+</div>
