@@ -19,7 +19,6 @@
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white&color=red)
-![](https://img.shields.io/badge/Tool-XD-informational?style=flat&logo=adobexd&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
