@@ -1,9 +1,9 @@
 
-<img src="https://64.media.tumblr.com/3fdff99a61a802c46804f672d736d122/tumblr_p49et2Yaxm1vl7b4bo7_500.gif" height="400px" width="100%" />
+<img src="https://tenor.com/view/hello-funny-wave-chicken-gif-13330039" height="400px" width="100%" />
 
-# Hi, Dr. Nick <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Whats up, people from in the internet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-#### Minja here and I'm a Frontend Developer. I'm from 🇧🇦 , living in 🇩🇪 | Open Road Fan 🏍
+####It is me, Jonas, I'm a Frontend Developer. I'm from 🇩🇪  and I am living in Munich|
   
 ![](https://img.shields.io/badge/milijan_popovic-informational?link=https://www.linkedin.com/in/milijan-popovic&style=flat&logo=linkedin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/minja_ppp-informational?link=https://twitter.com/minja_ppp&style=flat&logo=twitter&logoColor=white&color=informational)
