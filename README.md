@@ -1,9 +1,9 @@
 
 <img src="https://c.tenor.com/8NbjVzof-oIAAAAC/hello-funny.gif" height="400px" width="100%" />
 
-# Whats up, people from in the internet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Whats up, lovely people from in the Internet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-####It is me, Jonas, I'm a Frontend Developer. I'm from 🇩🇪  and I am living in Munich|
+####My Name is Jonas, I'm a Frontend Developer. I'm from 🇩🇪  and I am living in Munich| started Coding in 2021... & more to continue
   
 ![](https://img.shields.io/badge/jonas_hirsch-informational?link=https://www.linkedin.com/in/jonas-hirsch&style=flat&logo=linkedin&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/jonashirsch@t-online.de-informational?style=flat&logo=gmail&logoColor=white&color=red)
