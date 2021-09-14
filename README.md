@@ -1,7 +1,7 @@
 
 <img src="https://c.tenor.com/8NbjVzof-oIAAAAC/hello-funny.gif" height="400px" width="100%" />
 
-# Whats up, lovely people from in the Internet! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Whats up, lovely people from the Online World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 #My Name is Jonas, I'm a Frontend Developer. I'm from 🇩🇪  and I am living in Munich| started Coding in 2021... & more to continue
   
