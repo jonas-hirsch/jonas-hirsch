@@ -32,12 +32,12 @@
 
 <div style="display:flex; flex-wrap:wrap" align="center">
 
-<img src="https://tenor.com/view/treino-canino-almada-charneca-costa-gif-18200139" height="195px" width="300px" />
+<img src="https://c.tenor.com/bbX86HtK_s8AAAAd/read-book.gif" height="195px" width="300px" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jonas-hirsch&theme=contrast" />
 
 <br />
 
 # Quotes
-> Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
-
+“Life is like riding a bicycle. To keep your balance, you must keep moving.”
+― Albert Einstein
 
