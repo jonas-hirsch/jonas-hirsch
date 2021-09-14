@@ -5,9 +5,8 @@
 
 ####It is me, Jonas, I'm a Frontend Developer. I'm from 🇩🇪  and I am living in Munich|
   
-![](https://img.shields.io/badge/milijan_popovic-informational?link=https://www.linkedin.com/in/milijan-popovic&style=flat&logo=linkedin&logoColor=white&color=blue)
-![](https://img.shields.io/badge/minja_ppp-informational?link=https://twitter.com/minja_ppp&style=flat&logo=twitter&logoColor=white&color=informational)
-![](https://img.shields.io/badge/milijan.popovic@web.de-informational?style=flat&logo=gmail&logoColor=white&color=red)
+![](https://img.shields.io/badge/jonas_hirsch-informational?link=https://www.linkedin.com/in/jonas-hirsch&style=flat&logo=linkedin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/jonashirsch@t-online.de-informational?style=flat&logo=gmail&logoColor=white&color=red)
 ![Visitor Count](https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.Spoon-Knife&style=flat&logoColor=white&color=informational)
 <br/>
 <br/>
@@ -25,7 +24,6 @@
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Editor-VisualStudio-informational?style=flat&logo=visualstudio&logoColor=white&color=success)
-![](https://img.shields.io/badge/Tool-Storybook-informational?style=flat&logo=storybook&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 <br />
 <br />
@@ -36,7 +34,7 @@
 
 <img src="https://c.tenor.com/zERwJRNREmMAAAAC/motorcycle-riding.gif" height="195px" width="300px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=minime89-maker&theme=dark" />
-
+<div class="tenor-gif-embed" data-postid="7709320" data-share-method="host" data-aspect-ratio="0.632184" data-width="100%"><a href="https://tenor.com/view/dance-reaction-funny-laugh-gif-7709320">Dance Reaction GIF</a>from <a href="https://tenor.com/search/dance-gifs">Dance GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 <br />
 
@@ -44,5 +42,5 @@
 > Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning. - Albert Einstein
 
 <div style="display:flex; flex-wrap:wrap" align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jonas-hirsch&theme=contrast"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jonas-hirsch&theme=contrast"></img>
 </div>
