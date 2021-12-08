@@ -31,9 +31,8 @@
 ## I spend a lot of time on:
 
 <div style="display:flex; flex-wrap:wrap" align="center">
-
 <img src="https://c.tenor.com/bbX86HtK_s8AAAAd/read-book.gif" height="195px" width="300px" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jonas-hirsch&theme=contrast" />
+
 
 <br />
 
